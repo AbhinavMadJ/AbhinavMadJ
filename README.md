@@ -29,5 +29,12 @@ An ECE undergraduate focused on **VLSI & RTL design**, with hands-on experience 
 ### Celestial Tracker (Raspberry Pi)
 - Raspberry Pi based system to point to celestial objects using servo motors.  
 - Retrieves azimuth & elevation from a celestial map API and controls servos using GPIO.  
-- Stack: Python, Raspberry Pi, Servo motors, external API.  
+- Stack: Python, Raspberry Pi, Servo motors, external API.
+
+## Connect with me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](www.linkedin.com/in/abhinava-madhava-j/) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:abhinavmadj@gmail.com) 
+ 
+
 
