@@ -12,7 +12,7 @@ An ECE undergraduate focused on **VLSI & RTL design**, with hands-on experience 
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-blue?logo=verilog&logoColor=white&style=for-the-badge) 
 ![Verilog](https://img.shields.io/badge/Verilog-darkblue?logo=verilog&logoColor=white&style=for-the-badge) 
 ![Xilinx Vivado](https://img.shields.io/badge/Xilinx%20Vivado-red?logo=xilinx&logoColor=white&style=for-the-badge) 
-![Mentor Graphics Tanner EDA](https://img.shields.io/badge/Tanner%20EDA%20(Mentor%20Graphics)-orange?style=for-the-badge) 
+![Tanner EDA](https://img.shields.io/badge/Tanner%20EDA-orange?style=for-the-badge) 
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?logo=kicad&logoColor=white&style=for-the-badge) 
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?logo=ibm&logoColor=white&style=for-the-badge) 
 ![NetSquid](https://img.shields.io/badge/NetSquid-teal?style=for-the-badge) 
