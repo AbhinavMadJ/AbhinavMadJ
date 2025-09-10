@@ -36,5 +36,6 @@ An ECE undergraduate focused on **VLSI & RTL design**, with hands-on experience 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](www.linkedin.com/in/abhinava-madhava-j/) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:abhinavmadj@gmail.com) 
  
+![Profile Views](https://komarev.com/ghpvc/?username=AbhinavMadJ&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 
