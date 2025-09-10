@@ -2,7 +2,7 @@
 
 An ECE undergraduate focused on **VLSI & RTL design**, with hands-on experience in SystemVerilog and FPGA workflows using **Xilinx Vivado**. I enjoy building practical projects that sit at the intersection of hardware and research — from quantum-communication simulations to RTL design projects.
 
----
+
 ## Tech & Tools  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge) 
@@ -20,7 +20,6 @@ An ECE undergraduate focused on **VLSI & RTL design**, with hands-on experience 
 ![CST Studio](https://img.shields.io/badge/CST%20Studio-darkgreen?logo=siemens&logoColor=white&style=for-the-badge)  
 
 
-
 ## Projects
 ### Multi-parameter optimization of free-space QKD networks
 - Simulate and optimize loss & noise models for long-distance quantum links.  
@@ -30,6 +29,7 @@ An ECE undergraduate focused on **VLSI & RTL design**, with hands-on experience 
 - Raspberry Pi based system to point to celestial objects using servo motors.  
 - Retrieves azimuth & elevation from a celestial map API and controls servos using GPIO.  
 - Stack: Python, Raspberry Pi, Servo motors, external API.
+
 
 ## Connect with me  
 
